@@ -15,6 +15,7 @@ In order to access the data in SQLite database, we used SQLAlchemy to connect an
 - PostgreSQL
 
 **Importing dependencies:**
+
 ![SQLAlchemy](https://user-images.githubusercontent.com/111251560/198157093-aab342b4-bb60-42ef-bdab-f88a50026e0d.png)
 
 
