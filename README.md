@@ -7,6 +7,12 @@ For this analysis W. Avy wants more information about temperature trends before 
 
 ![surf](https://user-images.githubusercontent.com/111251560/198156217-afc93560-f16c-45aa-ba94-ea1c323e2cb9.png)
 
+In order to access the data in SQLite database, we used SQLAlchemy to connect and make queries to pull the necessary data for our analysis. Tools used for the analysis are as follows:
+- Pandas
+- Matplotlib
+- SQLite
+- Jupyter notebook
+- PostgreSQL
 
 Results: 
 
