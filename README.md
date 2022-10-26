@@ -14,6 +14,10 @@ In order to access the data in SQLite database, we used SQLAlchemy to connect an
 - Jupyter notebook
 - PostgreSQL
 
+**Importing dependencies:**
+![SQLAlchemy](https://user-images.githubusercontent.com/111251560/198157093-aab342b4-bb60-42ef-bdab-f88a50026e0d.png)
+
+
 Results: 
 
 Summary: Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
