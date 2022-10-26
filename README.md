@@ -5,6 +5,8 @@ surfs_up analysis is based on a business plan analysis, in-terms of investment, 
 
 For this analysis W. Avy wants more information about temperature trends before opening the surf shop. Specifically, he wants temperature data for the months of June and December in Oahu, in order to determine if the surf and ice cream shop business is sustainable year-round. 
 
+![surf](https://user-images.githubusercontent.com/111251560/198156104-1ac993ce-99da-4382-a6b4-0671cd2ca699.png)
+
 Results: 
 
 Summary: Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
