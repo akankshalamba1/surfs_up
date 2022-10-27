@@ -41,7 +41,7 @@ In December we had a total count of 1517, mean of 71.041529, min of 56.0 and max
 
 ![december_stats](https://user-images.githubusercontent.com/111251560/198178465-0c108d25-0b5f-4b83-84eb-a9b9ef45239f.png)
 
-Summary:
+## Summary:
 
 In short, Oahu is a great place to invest in a surf-and-ice cream shop. The weather is pleasant and moderate year-round. The lows are rarely too low and the highs are rarely too high, most days are clear. By looking at the precipitation and temperature outcomes for the month of June and Dec we could say that Oahu is a great place to invest in this business the precipitation outcomes of Oahu is as follows:
 
