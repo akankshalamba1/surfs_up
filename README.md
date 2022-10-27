@@ -64,3 +64,5 @@ For 2010 to 2016 is as follows:
 - **December**
 
 ![dec_query](https://user-images.githubusercontent.com/111251560/198185370-1d803373-5da6-405a-8ae0-954e247dd4e2.png)
+
+[Additional_analysis](/climate_analysis.ipynb)
