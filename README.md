@@ -37,5 +37,5 @@ In December we had a total count of 1517, mean of 71.041529, min of 56.0 and max
 
 ![december_stats](https://user-images.githubusercontent.com/111251560/198178465-0c108d25-0b5f-4b83-84eb-a9b9ef45239f.png)
 
-
-Summary: Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
+Summary:
+In short, Oahu is a great place to invest in a surf-and-ice cream shop. 
