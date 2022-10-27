@@ -18,7 +18,23 @@ In order to access the data in SQLite database, we used SQLAlchemy to connect an
 
 ![SQLAlchemy](https://user-images.githubusercontent.com/111251560/198157093-aab342b4-bb60-42ef-bdab-f88a50026e0d.png)
 
+## Results: 
 
-Results: 
+- ** Precipitation results**
+When we pulled the data, we first looked at the the precipitation for a one year timeframe. We reviewed the activity from August 23, 2016 - August 23, 2017. The mean was 0.177279 for 2021 observations, with min and max precipitation value of 0.00 and 6.700000 respectively.
+
+![precipitation](https://user-images.githubusercontent.com/111251560/198177191-3d8d3fc2-e130-4f87-b539-63aab8e060cf.png)
+
+![precipitation_stats](https://user-images.githubusercontent.com/111251560/198177176-cc285f9b-c182-4e45-b80b-9b4fa9e50010.png)
+
+- **June Results** 
+In June we had a total count of 1700, mean of 74.9, min of 64.0 and max of 85.0.
+
+![june_stats](https://user-images.githubusercontent.com/111251560/198178363-63716a8b-211f-437b-bf7b-e90aea73c341.png)
+
+- **December Results**
+In December we had a total count of 1517, mean of 71.0, min of 56.0 and max of 83.0
+
+![december_stats](https://user-images.githubusercontent.com/111251560/198178465-0c108d25-0b5f-4b83-84eb-a9b9ef45239f.png)
 
 Summary: Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
